@@ -74,7 +74,7 @@ python train.py
 
 ---
 
-## ⚡ SRGAN Image Enhancement
+⚡ SRGAN Image Enhancement
 
 * **Generator Network**: Reconstructs high-resolution MRI images from low-resolution inputs while preserving anatomical details.
 * **Discriminator Network**: Validates the authenticity of generated images to ensure structural accuracy.
@@ -85,7 +85,7 @@ python train.py
 
 ---
 
-## 📊 Model Performance
+📊 Model Performance
 
 * **Image Enhancement Metrics**:
 
@@ -94,15 +94,6 @@ python train.py
 * **Classification Accuracy**: 98.5%
 * **Validation Accuracy**: 95.7%
 * **Precision/Recall (Tumor)**: 96.3% / 94.1%
-
----
-
-## 🤝 Contributors
-
-* **Dhanush Kumar S**
-* **Hari Prasath D**
-* **Harish Kumar M**
-* **Guide**: Mr. T. Dinesh Kumar
 
 ---
 
